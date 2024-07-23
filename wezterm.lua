@@ -4,8 +4,8 @@ local config = {
 	allow_square_glyphs_to_overflow_width = "Never",
 	hide_mouse_cursor_when_typing = true,
 	quit_when_all_windows_are_closed = true,
-	color_scheme = "DoomOne",
-	font_size = 16,
+	color_scheme = "Everforest Dark (Gogh)",
+	font_size = 18,
 	line_height = 1.0,
 	font = wezterm.font("JetBrainsMono Nerd Font", { weight = "Regular" }),
 	font_rules = {
